@@ -2,7 +2,6 @@ import requests
 import time
 import random
 import os
-import marsal
 from colorama import init, Fore
 
 init(autoreset=True)
